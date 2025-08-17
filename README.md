@@ -18,3 +18,31 @@ Los usuarios pueden ingresar nombres, ver la lista de participantes y realizar u
 - **CSS** → estilos y diseño.  
 - **JavaScript** → lógica de la aplicación.  
 
+## 💻 Cómo usarlo
+
+### 🔹 Opción 1: Usar el link en línea  
+Puedes probar el proyecto directamente desde este enlace sin necesidad de descargar nada:  
+👉 [Amigo Secreto - GitHub Pages](https://iijuanmakiaii.github.io/Challenge-Amigo-secreto/)
+
+### 🔹 Opción 2: Usarlo en tu PC
+1. Clona este repositorio:  
+   ```bash
+   git clone https://github.com/tu-usuario/amigo-secreto.git
+2.Entra al directorio del proyecto:
+cd amigo-secreto
+3. Abre el archivo index.html en tu navegador.
+4. Escribe nombres en el campo de texto y pulsa "Añadir".
+5. Haz clic en "Sortear amigo" para elegir un ganador al azar. 🎉
+
+🙌 Créditos
+
+Este proyecto fue desarrollado como parte del programa ONE Next Education en conjunto con Alura Latam.
+Gracias a esta formación fue posible desarrollar este reto. 🚀
+
+✨ Autor
+
+Desarrollado por Juan Sebastián Otero Cerchar 🧑‍💻
+
+LinkedIn (https://www.linkedin.com/in/juan-s-otero-c/)
+
+
