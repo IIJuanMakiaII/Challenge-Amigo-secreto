@@ -30,8 +30,11 @@ Puedes probar el proyecto directamente desde este enlace sin necesidad de descar
    git clone https://github.com/tu-usuario/amigo-secreto.git
 2.Entra al directorio del proyecto:
 cd amigo-secreto
+
 3. Abre el archivo index.html en tu navegador.
+
 4. Escribe nombres en el campo de texto y pulsa "Añadir".
+
 5. Haz clic en "Sortear amigo" para elegir un ganador al azar. 🎉
 
 🙌 Créditos
